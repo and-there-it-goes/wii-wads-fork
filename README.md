@@ -22,9 +22,6 @@ Most is available through NUS
 
 - [Jacob Nilsson](https://jacobnilsson.com)
   - Archival and maintaining of forwarders/channels, as well as starting the Forwarder Factory project
-- [Primrose](https://snowbellium.net)
-  - Maintains Forwarder Factory
-  - Graphics and some other cool stuff
 - [Gabubu](https://wads.gabubu.xyz)
   - Maintains Forwarder Factory
   - Found the WiiFlow Dance Party WAD
