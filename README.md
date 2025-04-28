@@ -2,6 +2,14 @@
 
 Wii homebrew archive
 
+## Note
+
+Funnily enough, this repository is now **archived.** We still accept contributions here, including additions,
+but contributions of forwarders should be uploaded on [forwarderfactory.com](https://forwarderfactory.com)
+
+The goal is to slowly transition over there. That should be possible once the sandbox and mass download features
+are complete.
+
 ## What does the archive contain?
 
 This archive contains:
